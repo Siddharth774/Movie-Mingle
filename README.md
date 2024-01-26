@@ -61,16 +61,9 @@ Welcome to React Movie Explorer, a feature-rich web application designed for avi
 
 Contributions are encouraged! Feel free to submit issues or pull requests to enhance the project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to [API Provider Name] for generously providing the movie data API that enriches the React Movie Explorer experience.
 
 ## Contact
 
-For inquiries or feedback, please contact [Your Name] at [your.email@example.com].
+For inquiries or feedback, please contact Siddharth Sharma at siddharthsharma5050@gmail.com
 
 Enjoy exploring Hollywood movies with React Movie Explorer!

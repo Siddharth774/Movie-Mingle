@@ -5,7 +5,7 @@
 Welcome to React Movie Explorer, a feature-rich web application designed for avid Hollywood movie enthusiasts. This project empowers users to seamlessly search, explore, rate, and curate their own watchlist. Leveraging API calls, this application delivers an extensive database of movies, providing an immersive and dynamic experience.
 
 **Access the application on the browser:**
-   Open your browser and navigate to https://movie-minglee.netlify.app/.
+   Open your browser and navigate to https://movie-minglee.netlify.app/
 
 ## Features
 
